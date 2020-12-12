@@ -1,0 +1,12 @@
+{
+	"name": "ug-select",
+	"version": "1.0.0",
+	"main": "index.js",
+	"bin": {
+		"ug-select": "index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/levvij/ug-select.git"
+	}
+}
