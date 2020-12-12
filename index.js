@@ -1,4 +1,4 @@
-#!/bin/node
+#!/usr/local/bin/node
 
 const wait = s => new Promise(done => setTimeout(() => done(), s * 1000));
 
